@@ -15,6 +15,10 @@ Install NES emulator [FCEUX](http://www.fceux.com/web/home.html)
 
 lua scripts and nes files in 'SuperMarioBros' Folder are modified from [gym-super-mario](https://github.com/ppaquette/gym-super-mario)
 
+Install pywin32
+
+using win32 named pipe to comunicate with FCEUX, so support winodws only
+
 ## Config
 
 > config.py

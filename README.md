@@ -4,7 +4,9 @@
 ![alt text](https://raw.githubusercontent.com/xushsh163/A3CSuperMario_Windows/master/result.gif)
 
 3 threads
+
 after 4000 episodes, about 30% chance of Clearance
+
 after 8000 episodes, about 70% change of Clearance
 
 ## Enviroment

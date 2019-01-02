@@ -7,7 +7,7 @@
 
 after 4000 episodes, about 30% chance of Clearance
 
-after 8000 episodes, about 70% change of Clearance
+after 8000 episodes, about 70% chance of Clearance
 
 ## Enviroment
 

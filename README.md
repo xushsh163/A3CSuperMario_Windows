@@ -11,9 +11,9 @@ after 8000 episodes, about 70% chance of Clearance
 
 ## Enviroment
 
-NES emulator [FCEUX](http://www.fceux.com/web/home.html)
+Install NES emulator [FCEUX](http://www.fceux.com/web/home.html)
 
-lua script and nes files are modified from [gym-super-mario](https://github.com/ppaquette/gym-super-mario)
+lua scripts and nes files in 'SuperMarioBros' Folder are modified from [gym-super-mario](https://github.com/ppaquette/gym-super-mario)
 
 ## Config
 

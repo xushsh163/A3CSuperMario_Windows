@@ -29,6 +29,21 @@ load_model = False
 ```
 change to True if you need to continue training
 
+## Run
+
+Train
+
+```
+python A3CTrainer.py
+```
+
+Test
+
+```
+python A3CTester.py
+```
+
+
 ## A3C model
 
 A3C model implements is from this article 《[simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2)》.
